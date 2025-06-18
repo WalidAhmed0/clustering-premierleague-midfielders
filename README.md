@@ -6,7 +6,7 @@ Data was collected from [FBref.com](https://fbref.com/).
 
 ### Files
 - `midfielder.ipynb`: The Jupyter Notebook containing the analysis code and visualisations.
-- `24_25midfielder.csv`: The dataset used for analysis.
+- `24_25midfielder.csv`: The dataset I curated and used for analysis.
 
 ### Analysis Methods
 - Hierarchical clustering (for determining optimal cluster numbers)
