@@ -13,5 +13,5 @@ Data was collected from [FBref.com](https://fbref.com/).
 - K-Means clustering
 - MST visualisation with NetworkX and Matplotlib
 
-### Author
+### Article
 Corresponding article can be found at: https://open.substack.com/pub/underthelights/p/clustering-premier-league-midfielders?r=5rmzoc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false
